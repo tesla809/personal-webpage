@@ -15,9 +15,8 @@ $(".nav").animsition({
 });
 
 $(".jumbotron").animsition({
-  inClass: 'fade-in-right-lg',
-  outClass: 'fade-out-right-lg',
-  linkElement: 'navbar navbar-default a',
+  inClass: 'rotate-in-sm',
+  outClass: 'rotate-out-sm',
   inDuration: 1500,
   outDuration: 500
 });
