@@ -10,6 +10,10 @@ canvas {
 	box-shadow: 0 4px 0 0 #222;
 	cursor: url(../img/nyanCatCursor.png), url(../img/nyanCatCursor.ani), crosshair;
 }
+.header h2, h3{
+	text-align: center;
+	color: white;
+}
 .controls {
 	min-height: 60px;
 	margin: 0 auto;
