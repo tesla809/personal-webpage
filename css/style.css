@@ -88,6 +88,10 @@ p {
   color: blue;
 }
 
+#ai {
+  color: rgb(10, 186, 181);
+}
+
 button {
   font-family: 'octin-spraypaint';
 }
