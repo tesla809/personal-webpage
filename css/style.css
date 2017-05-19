@@ -4,13 +4,13 @@ re-size for different screens
 
 
 /* Small devices (tablets, 768px and up) */
-@media (min-width: @screen-sm-min) { 
-  
+@media (min-width: @screen-sm-min) {
+
 }
 
 /* Medium devices (desktops, 992px and up) */
-@media (min-width: @screen-md-min) { 
-  
+@media (min-width: @screen-md-min) {
+
 }
 
 
@@ -102,6 +102,7 @@ a {
 
 .btn {
   background-color: rgba(251, 152, 93, 0.7);
+  margin-top: 0.35%;
 }
 
 .jumbotron {
@@ -157,7 +158,7 @@ Projects
 When over image, turns from black and white to background of project photo.
 
 
-When clicked, 
+When clicked,
 div circle pops and
 pop up window comes up.
 */
